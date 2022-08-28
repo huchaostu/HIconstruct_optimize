@@ -1,7 +1,7 @@
 # Optimized Health Index Construction
 
 This repository contains parts of code for the publication "Health Index Construction with Feature Fusion Optimization for Predictive Maintenance
-of Physical Systems" by _Venkat Nemani_, _Austin Bray_, _Adam Thelen_, _Chao Hu_, and _Steve Daining_, submitted to the **Structural and Multidiciplinary Optimization** (SMO) Special Issue on _Advanced Optimization Enabling Digital Twin Technology_. 
+of Physical Systems" by _Venkat Nemani_, _Austin Bray_, _Adam Thelen_, _Chao Hu_, and _Steve Daining_, submitted to the **Structural and Multidiciplinary Optimization (SMO)** Special Issue on _Advanced Optimization Enabling Digital Twin Technology_. 
 
 We use two publicly available bearing datasets
  - XJTU-SY bearing run-to-failure dataset [Wang, B., Lei, Y., Li, N. and Li, N., 2018. A hybrid prognostics approach for estimating remaining useful life of rolling element bearings. IEEE Transactions on Reliability, 69(1), pp.401-412.] (https://ieeexplore.ieee.org/document/8576668)
